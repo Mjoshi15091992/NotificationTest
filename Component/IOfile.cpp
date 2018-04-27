@@ -1,1 +1,3 @@
 welcome to component.cpp ...
+  
+  Added security tool.......By MJ
