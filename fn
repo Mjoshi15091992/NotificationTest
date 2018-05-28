@@ -1,0 +1,164 @@
+[33mcommit 6b1162cf0f7eb29a2ad749c95fe7e53fc42ed2ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Mon May 28 14:35:35 2018 +0530
+
+    Create Motor.hpp
+
+[33mcommit f245baa69df2d251dc14d00cabba5692e70c3eec[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Mon May 28 14:35:09 2018 +0530
+
+    Create Motor.cpp
+
+[33mcommit deddc37a58d7ee722d885461c618122401baad31[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Mon May 28 14:34:28 2018 +0530
+
+    Create Stack.hpp
+
+[33mcommit 02892dd6c3db4e3c56406c369e3feeb9be8d45e9[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Mon May 28 14:33:43 2018 +0530
+
+    Create Stack.cpp
+
+[33mcommit 00dab087f228afda81d6aca64ff9c388e98791f8[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Fri Apr 27 19:04:01 2018 +0530
+
+    Update IOfile.cpp
+
+[33mcommit 265bd02e9d83f591cd25559b6117a8477c372dbd[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Thu Apr 26 19:35:46 2018 +0530
+
+    Create Limit.hpp
+
+[33mcommit c98ef37f5d8b56cbb5882a442c19708b7145372b[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Thu Apr 26 19:34:46 2018 +0530
+
+    Create Limit.cpp
+
+[33mcommit 2cf6ecd226f41987c2b92deb6973f6084321aa01[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Thu Apr 26 19:32:34 2018 +0530
+
+    Create IOfile.hpp
+
+[33mcommit d649f770e21e382db1abd073a060f0ec972035d3[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Thu Apr 26 19:32:04 2018 +0530
+
+    Create IOfile.cpp
+
+[33mcommit e3b70a84b3803c244e181beba9026de365da9126[m
+Author: Vivek <vivekprasad4@users.noreply.github.com>
+Date:   Wed Apr 25 14:37:41 2018 +0000
+
+    Update Mohit.c
+
+[33mcommit 1b6c4db709eab77f5a707025fac3c3fc49a74f4c[m
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Wed Apr 25 15:06:54 2018 +0530
+
+    Update Mohit.c
+
+[33mcommit eae9c397a939fef9b983a68c3513a45b99892e4b[m
+Merge: e2ceecf 726fd89
+Author: Mjoshi4 <38687317+Mjoshi4@users.noreply.github.com>
+Date:   Wed Apr 25 15:04:51 2018 +0530
+
+    Merge pull request #3 from PZaware/patch-1
+    
+    Update Mohit.c
+
+[33mcommit 726fd896b5271a501b97cb176657b67566b49d32[m
+Author: PZaware <38692672+PZaware@users.noreply.github.com>
+Date:   Wed Apr 25 14:58:17 2018 +0530
+
+    Update Mohit.c
+
+[33mcommit e2ceecf8aa40005965ceed01bba04be24d63539e[m[33m ([m[1;32mnewnot[m[33m)[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 20:45:10 2018 +0530
+
+    Update Mohit.h
+
+[33mcommit 48e4426a68c92d5aecc9a3a547638d9674fef18f[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 20:39:01 2018 +0530
+
+    Update Mohit.h
+
+[33mcommit 75a793fd02a8b1c9bda58e3fd47cd710c1658b4a[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 19:54:12 2018 +0530
+
+    Update Mohit.h
+
+[33mcommit dc18930b2561fb40b25e6c1d1981586e4972407f[m
+Author: U-LNTIES\20134849 <20134849@MUTSP02265.lnties.com>
+Date:   Tue Apr 24 19:00:35 2018 +0530
+
+    modified Mohit.c
+
+[33mcommit 66334e3025524416f2da4737b198742a1c0cc33d[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 18:56:42 2018 +0530
+
+    Update Mohit.c
+
+[33mcommit d03d6d5c96970d96f5e214d467633a5758e9be09[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 18:25:23 2018 +0530
+
+    Update Mohit.h
+
+[33mcommit 38101e726b0bdf34eedc2c42037e949f5d6748d6[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 17:12:15 2018 +0530
+
+    Update Mohit.c
+
+[33mcommit fa05c5f5de5fd5277d27714e7d2103b3ccdde5e3[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 16:03:48 2018 +0530
+
+    Update Mohit.c
+
+[33mcommit 323e6616e20d17c949e9859e0f33c2c2502875e3[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 15:53:11 2018 +0530
+
+    Create Mohit.c
+
+[33mcommit 1e5a057a092f4c44ef30ee8ed40e70f1a1d9250e[m
+Author: Vivek <vivekprasad4@users.noreply.github.com>
+Date:   Tue Apr 24 15:45:39 2018 +0530
+
+    Update README.md
+
+[33mcommit b3fff37c1e95ae33fec8e3dcfc2e447dd163161c[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 15:37:47 2018 +0530
+
+    Update Mohit.h
+
+[33mcommit 271330b5ac15308785ca4d3be019937f0b34167d[m
+Author: Mjoshi15091992 <38687317+Mjoshi15091992@users.noreply.github.com>
+Date:   Tue Apr 24 15:28:35 2018 +0530
+
+    Created a file. added by mohit
+
+[33mcommit ab80ab0e8bb2f37c8f885e54a977fd726e4d730f[m
+Author: U-LNTIES\20134849 <20134849@MUTSP02265.lnties.com>
+Date:   Tue Apr 24 15:23:33 2018 +0530
+
+    updated ReadMe
+
+[33mcommit 4c609477f73236895fbc2b2d377a487b46d63204[m
+Author: U-LNTIES\20134849 <20134849@MUTSP02265.lnties.com>
+Date:   Tue Apr 24 15:14:05 2018 +0530
+
+    Added ReadMe
